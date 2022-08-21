@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ad-My-Brand/static/css/main.05e02929.css",
+    "main.js": "/Ad-My-Brand/static/js/main.2e240b5c.js",
+    "index.html": "/Ad-My-Brand/index.html",
+    "main.05e02929.css.map": "/Ad-My-Brand/static/css/main.05e02929.css.map",
+    "main.2e240b5c.js.map": "/Ad-My-Brand/static/js/main.2e240b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05e02929.css",
+    "static/js/main.2e240b5c.js"
+  ]
+}
